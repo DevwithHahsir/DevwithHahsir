@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is HASHIR and I'm a WEB DEVELOPER, from PAKISTAN</h2>
+<h2 align="left">Developing websites so fast, even my Wi-Fi is jealous.</h2>
+<h4 align="left">I'm Hashir, a web developer from Pakistan</h4>
 
 ###
 
